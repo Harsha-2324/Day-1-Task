@@ -1,6 +1,6 @@
 # ![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*x4sIvIGFNhFQadE4wDTCew.png)
 
-`**This Repository is created for Day 1 Task**`
+**`This Repository is created for Day 1 Task`**
 
 
 + **Write a blog on Difference between HTTP1.1 vs HTTP2.**
