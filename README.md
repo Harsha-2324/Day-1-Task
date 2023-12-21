@@ -1,6 +1,5 @@
-<p align=”center”>
-![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*x4sIvIGFNhFQadE4wDTCew.png)
-</p>
+# ![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*x4sIvIGFNhFQadE4wDTCew.png)
+
 **This Repository is created for Day 1 Task**
 
 
