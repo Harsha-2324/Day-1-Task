@@ -4,6 +4,6 @@
 
 
 + **Write a blog on Difference between HTTP1.1 vs HTTP2**
-    + *Find this BLOG on the link:* ` https://medium.com/@rharshva/difference-between-http1-1-vs-http2-ba724ca2a7cb `
+    + *Find this BLOG on the link:*  https://medium.com/@rharshva/difference-between-http1-1-vs-http2-ba724ca2a7cb 
 + **Write a blog about objects and its internal representation in Javascript** 
-    + *Find this BLOG on the link:* ![Medium](https://medium.com/@rharshva/objects-and-its-internal-representation-in-javascript-e8a7f6a70cb6/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) `
+    + *Find this BLOG on the link:* ![Medium.com] (https://medium.com/@rharshva/objects-and-its-internal-representation-in-javascript-e8a7f6a70cb6)
