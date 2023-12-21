@@ -1,6 +1,6 @@
 # **DAY - 1 TASK**
 
-![Alt text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xeTlmunl2AIdGfA2aOkO1w.png")
+![Alt text](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xeTlmunl2AIdGfA2aOkO1w.png)
 
 **This Repository is created for Day 1 Task**
 
