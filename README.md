@@ -1,6 +1,6 @@
 # **DAY - 1 TASK**
 
-<img src=”https://medium.com/@rharshva/day-1-tas-6db192b4f310" alt=”my banner”>
+<img src=”https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xeTlmunl2AIdGfA2aOkO1w.png" alt=”my banner”>
 
 **This Repository is created for Day 1 Task**
 
