@@ -9,5 +9,5 @@
 
 + **Write a blog about objects and its internal representation in Javascript.** 
     
-    + *You can find this BLOG by clicking the Badge:* [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rharshva/objects-and-its-internal-representation-in-javascript-e8a7f6a70cb6)
+    + You can find this BLOG by clicking the Badge: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rharshva/objects-and-its-internal-representation-in-javascript-e8a7f6a70cb6)
     
