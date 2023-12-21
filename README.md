@@ -1,7 +1,7 @@
 # **DAY - 1 TASK**
-
+<p align=”center”>
 <img src=”https://miro.medium.com/v2/resize:fit:1100/format:webp/1*xeTlmunl2AIdGfA2aOkO1w.png" alt=”my banner”>
-
+</p>
 **This Repository is created for Day 1 Task**
 
 
